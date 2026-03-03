@@ -1,0 +1,10 @@
+{
+  "name": "com.shubham.unitymechanicsframework",
+  "version": "1.0.0",
+  "displayName": "Unity Mechanics Framework",
+  "description": "Modular open-source gameplay mechanics framework for Unity.",
+  "unity": "6.3",
+  "author": {
+    "name": "Shubham B"
+  }
+}
