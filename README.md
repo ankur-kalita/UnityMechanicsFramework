@@ -39,11 +39,11 @@ Every Unity developer has rewritten the same 10 mechanics dozens of times — a 
 
 This is a centralized, open-source library of gameplay mechanics that are:
 
-- **Plug-and-play** — drop any mechanic into your project and have it running within minutes
-- **Modular** — each system is fully self-contained with no hidden dependencies on other mechanics
-- **Video-documented** — every mechanic ships with a contributor-recorded walkthrough video
-- **Explained line-by-line** — every mechanic includes a `ScriptExplainer.txt` that teaches the code, not just shares it
-- **Production-ready** — built with clean architecture, interface-based physics, and decoupled event systems
+- **Plug-and-play** : drop any mechanic into your project and have it running within minutes
+- **Modular** : each system is fully self-contained with no hidden dependencies on other mechanics
+- **Video-documented** : every mechanic ships with a contributor-recorded walkthrough video
+- **Explained line-by-line** : every mechanic includes a `ScriptExplainer.txt` that teaches the code, not just shares it
+- **Production-ready** : built with clean architecture, interface-based physics, and decoupled event systems
 
 The goal is simple: build the mechanic once, document it properly, and let every Unity developer benefit from it forever.
 
